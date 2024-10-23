@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+  
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    outline: 1px solid black;
+    height: 50vh;
+    width: 50vw;
+}
